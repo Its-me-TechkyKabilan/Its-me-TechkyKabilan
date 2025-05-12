@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Advanced Assistive Technology for the blind<br>👯 I'm looking to collaborate on development on AI and ML<br>🤝 I'm looking for help with my Final year Project<br>🌱 I'm currently learning Advance python and AI and ML<br>💬 Ask me about creative and innovative ideas for project and development<br>⚡ Fun Fact I have participate in many hackathon and project as an back end person solving and finishing everything
+🔭 I'm currently working on Petroleum Price Prediction<br>👯 I'm looking to collaborate on development on AI and ML<br>🤝 I'm looking for challenges in programing<br>🌱 I'm currently learning Advance python and AI and ML<br>💬 Ask me about creative and innovative ideas for project and development<br>⚡ Fun Fact I have participate in many hackathon and project as an back end person solving and finishing everything
 
 
 ## 🌐 Socials:
